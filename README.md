@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C++-Multiplataform-0f172a?style=for-the-badge&logo=cplusplus" />
+
   <img alt="MetaTrader 5" src="https://img.shields.io/badge/MetaTrader-5-2563eb?style=for-the-badge" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-WAF-1f6feb?style=for-the-badge&logo=cloudflare" />
+
   <img alt="Cross Platform" src="https://img.shields.io/badge/Desktop-Windows%20%7C%20Linux%20%7C%20macOS-16a34a?style=for-the-badge" />
 </p>
 
