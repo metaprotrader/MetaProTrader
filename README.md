@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/logo.png" alt="MetaPro Trader logo" width="180" />
+  <img src="Assets/Logo.png" alt="MetaPro Trader logo" width="180" />
 </p>
 
 <h1 align="center">MetaPro Trader</h1>
@@ -12,7 +12,7 @@
   <img alt=".NET 10" src="https://img.shields.io/badge/.NET-10.0-0f172a?style=for-the-badge&logo=dotnet" />
   <img alt="Avalonia UI" src="https://img.shields.io/badge/Avalonia-11.3-1f6feb?style=for-the-badge" />
   <img alt="MetaTrader 5" src="https://img.shields.io/badge/MetaTrader-5-2563eb?style=for-the-badge" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-Security-orange?style=for-the-badge&logo=cloudflare" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-2563eb?style=for-the-badge&logo=cloudflare" />
   <img alt="Cross Platform" src="https://img.shields.io/badge/Desktop-Windows%20%7C%20Linux%20%7C%20macOS-16a34a?style=for-the-badge" />
 </p>
 
