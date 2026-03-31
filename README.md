@@ -50,4 +50,4 @@ MetaPro Trader was built to deliver a modern trading desktop experience that goe
 
 ## License
 
-This repository currently does not declare a public license. Add a license file before distributing or accepting external contributions under open-source terms.
+The MetaPro Trader licenses are proprietary and are specified on the official MetaPro Trader website.
