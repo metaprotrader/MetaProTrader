@@ -5,7 +5,7 @@
 <h1 align="center">MetaPro Trader</h1>
 
 <p align="center">
-  AI-powered desktop trading platform for MetaTrader 5, built with .NET 10 and Avalonia.
+  AI-powered desktop trading platform, built with native support for MetaTrader 5.
 </p>
 
 <p align="center">
@@ -31,76 +31,20 @@ It is designed for traders and teams who want a richer trading environment with 
 - Advanced chart workspace with drawing tools, Fibonacci tools, text annotations, and technical overlays
 - Dedicated indicators window for configuring and applying chart studies
 - Order and trade monitoring interface with filtering and summary views
-- AI training and retraining workflows powered by ML.NET
+- AI training and retraining workflows
 - Pattern detection, scoring, calibration, and operational decision support services
 - Secure local storage for credentials and encrypted password handling
 - Automatic update flow powered by Velopack
 - Cross-platform packaging scripts for Windows, Linux, and macOS
 - Built-in language support for English and Portuguese (Brazil)
 
-## Tech Stack
-
-- `.NET 10`
-- `Avalonia UI`
-- `CommunityToolkit.Mvvm`
-- `ScottPlot`
-- `ML.NET`
-- `Supabase`
-- `Npgsql`
-- `Velopack`
-
-## Project Structure
-
-```text
-Assets/           Branding and UI assets
-Models/           Domain and persistence models
-Services/         Trading, AI, updates, security, and data services
-ViewModels/       Application state and workflows
-Views/            Avalonia desktop UI
-Themes/           App theming and visual styling
-docs/             Supporting project documentation
-build-*.sh|ps1    Platform-specific release automation
-```
-
-## Getting Started
-
-### Prerequisites
-
-- .NET 10 SDK
-- MetaTrader 5 API dependency available to the project
-- Access to the configured backend services when authentication is required
-
-### Run locally
-
-```bash
-dotnet restore
-dotnet run --project MetaProTrader.csproj
-```
-
-## Build and Release
-
-Official release scripts are included for every supported desktop target:
-
-- Windows: `./build-windows.ps1`
-- Linux: `./build-linux.sh`
-- macOS: `./build-macos.sh`
-
-For release pipeline details, see [`docs/release.md`](docs/release.md).
-
-## Configuration
-
-The application supports environment-based backend configuration for Supabase:
-
-- `METAPROTRADER_SUPABASE_URL`
-- `METAPROTRADER_SUPABASE_ANON_KEY`
-
-If not provided, the application falls back to its built-in defaults.
+#
 
 ## Why MetaPro Trader
 
 MetaPro Trader was built to deliver a modern trading desktop experience that goes beyond basic chart viewing. The platform brings together chart interaction, order visibility, technical studies, AI-assisted decision tooling, and production-ready release automation in one cohesive application.
 
-## Website
+## Getting Started
 
 - https://www.metaprotrader.com.br
 
