@@ -33,6 +33,7 @@ It is designed for traders and teams who want a richer trading environment with 
 - Order and trade monitoring interface with filtering and summary views
 - AI training and retraining workflows
 - Pattern detection, scoring, calibration, and operational decision support services
+- Over 50 customizable technical indicators optimized
 - Automatic update
 - Cross-platform packaging scripts for Windows, Linux, and macOS
 - Built-in language support for English and Portuguese (Brazil)
