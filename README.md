@@ -37,7 +37,7 @@ It is designed for traders and teams who want a richer trading environment with 
 - Cross-platform packaging scripts for Windows, Linux, and macOS
 - Built-in language support for English and Portuguese (Brazil)
 
-#
+# 
 
 ## Why MetaPro Trader
 
