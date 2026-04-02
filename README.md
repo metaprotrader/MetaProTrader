@@ -33,8 +33,7 @@ It is designed for traders and teams who want a richer trading environment with 
 - Order and trade monitoring interface with filtering and summary views
 - AI training and retraining workflows
 - Pattern detection, scoring, calibration, and operational decision support services
-- Secure local storage for credentials and encrypted password handling
-- Automatic update flow powered by Velopack
+- Automatic update
 - Cross-platform packaging scripts for Windows, Linux, and macOS
 - Built-in language support for English and Portuguese (Brazil)
 
