@@ -34,6 +34,9 @@ It is designed for traders and teams who want a richer trading environment with 
 - AI training and retraining workflows
 - Pattern detection, scoring, calibration, and operational decision support services
 - Over 50 customizable technical indicators optimized
+- Connect simultaneously to multiple MetaTrader 5 servers
+- Risk management
+- Market analysis
 - Automatic update
 - Cross-platform packaging scripts for Windows, Linux, and macOS
 - Built-in language support for English and Portuguese (Brazil)
