@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Logo.png" alt="MetaPro Trader logo" width="180" />
+  <img src="https://www.metaprotrader.com.br/uploads/TradeMetaPro-logo.png" alt="MetaPro Trader logo" width="180" />
 </p>
 
 <h1 align="center">MetaPro Trader</h1>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="Assets/back-image.jpg" alt="MetaPro Trader platform preview" width="100%" />
+  <img src="https://www.metaprotrader.com.br/meta-3.png" alt="MetaPro Trader platform preview" width="100%" />
 </p>
 
 ## Overview
