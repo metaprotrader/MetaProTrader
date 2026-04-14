@@ -18,6 +18,10 @@
 <p align="center">
   <img src="https://www.metaprotrader.com.br/meta-3.png" alt="MetaPro Trader platform preview" width="100%" />
 </p>
+<br>
+<p align="center">
+  <img src="https://www.metaprotrader.com.br/orderflow.png" alt="MetaPro Trader platform preview" width="100%" />
+</p>
 
 ## Overview
 
@@ -35,10 +39,16 @@ It is designed for traders and teams who want a richer trading environment with 
 - Pattern detection, scoring, calibration, and operational decision support services
 - Over 50 customizable technical indicators optimized
 - Connect simultaneously to multiple MetaTrader 5 servers
+- Native connection to MetaTrader 5 (MT5) servers
+- Send orders directly to your broker
 - Risk management
 - Market analysis
 - Automatic update
 - Cross-platform packaging scripts for Windows, Linux, and macOS
+- Order Flow
+- Footprint
+- Tape Reading
+- Robot with entry automation based on AI predictions
 - Built-in language support for English and Portuguese (Brazil)
 
 # 
