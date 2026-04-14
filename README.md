@@ -43,13 +43,12 @@ It is designed for traders and teams who want a richer trading environment with 
 - Send orders directly to your broker
 - Risk management
 - Market analysis
-- Automatic update
-- Cross-platform packaging scripts for Windows, Linux, and macOS
 - Order Flow
 - Footprint
 - Tape Reading
 - Robot with entry automation based on AI predictions
 - Built-in language support for English and Portuguese (Brazil)
+- Cross-platform packaging scripts for Windows, Linux, and macOS
 
 # 
 
