@@ -27,7 +27,7 @@
 <img width="1917" height="1153" alt="rb" src="https://github.com/user-attachments/assets/da96815e-6bdb-4a5a-9e89-5fe4fbbe2043" />
 </p>
 
-# MetaPro Trader
+# MetaPro Trader - English
 
 **A desktop trading workstation that connects straight to your broker's MetaTrader 5 server — no MT5 terminal required.**
 
@@ -180,12 +180,9 @@ Please open a support ticket from your account, or write to suporte@metaprotrade
 
 MetaPro Trader is analysis and execution software. It does not provide investment advice, and no indicator, AI reading, or automated entry can predict market behaviour. Trading leveraged instruments carries the risk of losing more than your initial capital. You remain responsible for every order sent from your account, including orders placed by automation. Test your setup on a demo account before trading live.
 
-# MetaPro Trader
+<br>
 
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-AppImage-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-Portable-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-conex%C3%A3o_nativa-1E6FBA?style=for-the-badge)
+# MetaPro Trader - Português BR
 
 **Plataforma de operação para desktop que se conecta direto ao servidor MetaTrader 5 da sua corretora, sem precisar do terminal MT5.**
 
