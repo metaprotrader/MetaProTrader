@@ -31,11 +31,6 @@
 <img width="1917" height="1153" alt="rb" src="https://github.com/user-attachments/assets/da96815e-6bdb-4a5a-9e89-5fe4fbbe2043" />
 </p>
 
-<br>
-<p align="center">
-  <img src="https://www.metaprotrader.com.br/orderflow.png" alt="MetaPro Trader platform preview" width="100%" />
-</p>
-
 ## Overview
 
 MetaPro Trader is a professional desktop trading workstation that combines MetaTrader 5 connectivity, advanced charting, technical analysis tools, AI-assisted pattern intelligence, and release automation in a single cross-platform application.
