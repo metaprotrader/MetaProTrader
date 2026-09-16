@@ -157,7 +157,6 @@ Subscribe at [metaprotrader.com.br](https://www.metaprotrader.com.br).
 ## Support
 
 - **Tickets:** after subscribing, the *My Tickets* menu appears in the website navigation — this is the main support channel
-- **E-mail:** suporte@metaprotrader.com.br
 - **Live chat:** Monday to Friday, 09:00–18:00
 - **In-app:** *Help → Support*
 
@@ -312,7 +311,6 @@ Assine em [metaprotrader.com.br](https://www.metaprotrader.com.br).
 ## Suporte
 
 - **Chamados:** depois de assinar, o menu *Meus Chamados* aparece na navegação do site. Este é o canal principal de suporte.
-- **E-mail:** suporte@metaprotrader.com.br
 - **Chat ao vivo:** de segunda a sexta, das 09:00 às 18:00
 - **No aplicativo:** *Ajuda → Suporte*
 
