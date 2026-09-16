@@ -20,6 +20,19 @@
 </p>
 <br>
 <p align="center">
+<img width="1919" height="1151" alt="meta-4" src="https://github.com/user-attachments/assets/6c4df1d2-9da9-4cae-9b19-38d1e2a4dbb6" />
+</p>
+<br>
+<p align="center">
+<img width="1918" height="1150" alt="meta-5" src="https://github.com/user-attachments/assets/2739e65c-006d-4fb8-95f1-4e5d8970d32b" />
+</p>
+<br>
+<p align="center">
+<img width="1917" height="1153" alt="rb" src="https://github.com/user-attachments/assets/da96815e-6bdb-4a5a-9e89-5fe4fbbe2043" />
+</p>
+
+<br>
+<p align="center">
   <img src="https://www.metaprotrader.com.br/orderflow.png" alt="MetaPro Trader platform preview" width="100%" />
 </p>
 
